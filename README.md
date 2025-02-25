@@ -1,4 +1,4 @@
-#Data-Visualization-Using-Spotify-Data
+**Data-Visualization-Using-Spotify-Data**
 
 Welcome to the Data Visualization Using Spotify Data project! This project focuses on data analysis and visualization using Python, leveraging powerful libraries such as pandas, numpy, seaborn, and matplotlib. The dataset used in this project is spotify-2023.csv.
 
